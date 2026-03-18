@@ -118,3 +118,9 @@ Uso de MoveL verticales con setRounding(0.0)
 Mantener siempre la orientación del Target 1
 No usar MoveC (que puede producir flips según orientación)
 Retorno controlado con MoveJ
+
+# Video
+
+https://github.com/user-attachments/assets/5f0ad105-8abf-488e-95c6-7905b9b9e50e
+
+
