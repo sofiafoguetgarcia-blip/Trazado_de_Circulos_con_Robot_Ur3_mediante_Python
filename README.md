@@ -5,11 +5,17 @@ Este proyecto implementa una solución completa para controlar un robot UR3e des
 #  Características
 
 ✔ Dibujo de círculos mediante discretización (120 puntos → suavidad óptima)
+
 ✔ Control del lápiz (TCP): bajada vertical precisa a Z=15 mm
+
 ✔ Movimientos seguros: sin colisiones internas y sin cambios de orientación inesperados
+
 ✔ Blend controlado para evitar “rayitas” en el inicio y fin del trazo
+
 ✔ Compatibilidad con simulación y robot real
+
 ✔ Retorno automático a la postura inicial del robot
+
 ✔ Código totalmente limpio, comentado y fácil de extender
 
 
